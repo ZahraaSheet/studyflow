@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studyflow/static/css/main.d2fb9fa2.css",
+    "main.js": "/studyflow/static/js/main.7aa04331.js",
+    "static/js/453.b4a7fb47.chunk.js": "/studyflow/static/js/453.b4a7fb47.chunk.js",
+    "index.html": "/studyflow/index.html",
+    "main.d2fb9fa2.css.map": "/studyflow/static/css/main.d2fb9fa2.css.map",
+    "main.7aa04331.js.map": "/studyflow/static/js/main.7aa04331.js.map",
+    "453.b4a7fb47.chunk.js.map": "/studyflow/static/js/453.b4a7fb47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2fb9fa2.css",
+    "static/js/main.7aa04331.js"
+  ]
+}
